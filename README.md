@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Technologies, JavaScript, UX design, Analytics
 - 🌱 I’m currently learning React Native in depth
 - 💞️ I’m looking to collaborate on data-heavy projects (shopping, financial, geolocation, historical) 
-- 📫 React me by email at knnthgms@gmail.com
+- 📫 Reach me by email at knnthgms@gmail.com
 
 <!---
 knnthgms/knnthgms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
