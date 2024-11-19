@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Ken Gomes. I'm a frontend developer working with React and React Native
-- 👀 I’m interested in Web Technologies, JavaScript, UX design, Analytics
-- 🌱 I’m currently learning React Native in depth
-- 💞️ I’m looking to collaborate on data-heavy projects (shopping, financial, geolocation, historical) 
-- 📫 Reach me by email at knnthgms@gmail.com
+# 👋 Hi, I'm Kenneth Gomes  
 
-<!---
-knnthgms/knnthgms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Senior developer and aspiring **Product Engineer** who loves turning ideas into delightful, data-driven experiences.  
+
+## About Me  
+- A JavaScript (ES6+) enthusiast who enjoys making **code clean** and **users happy**  
+- Bridging the gap between **tech and business**, with experience in **requirement gathering**, **execution**, and even **A/B testing**  
+- Currently diving into **Golang** to level up my backend game  
+- A champion for **better user experiences** and the nerdy analytics that power them  
+
+## Let's Connect  
+📫 Email: **[knnthgms@gmail.com](mailto:knnthgms@gmail.com)**  
+
+If you’ve got a cool project or just want to geek out, I’m all ears! 👂
