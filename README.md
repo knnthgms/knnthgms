@@ -24,9 +24,9 @@ Lately I've been building native Apple apps alongside the web work I do day to d
 | 🍜 | [**Curvy Noodle**](https://github.com/knnthgms/curvy-noodle-store) | Storefront and blog for a handmade sticker shop, with a built-in admin editor | Astro · TypeScript · Tailwind · Cloudflare |
 | 💼 | [**Natasha Gomes**](https://github.com/knnthgms/natasha-gomes-portfolio) | Portfolio site for a product marketer | Next.js · React · TypeScript · Tailwind |
 
-I also build sites for small businesses on a reusable Next.js 16 + Sanity + Cloudflare Workers starter, and I'm working on an offline-first word-game app in Expo / React Native. Both repos are private for now.
+Also in progress: an offline-first word-game app in Expo / React Native (private until release).
 
 #### 🧰 Toolbox
 
 **Daily:** TypeScript · React · Next.js · Node.js · Tailwind CSS · design systems · analytics & experimentation<br>
-**Also:** Swift / SwiftUI · Astro · React Native (Expo) · Cloudflare Workers & Pages · Sanity
+**Also:** Swift / SwiftUI · Astro · React Native (Expo) · Cloudflare Workers & Pages
